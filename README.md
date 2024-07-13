@@ -54,6 +54,7 @@ Ejemplo:
 
 ![image](https://github.com/user-attachments/assets/bad35065-3a98-4b4b-84dd-22790a3cebb5)
 
+
 <h3> - POST</h3>
 Para poder agregar un topico en "/topicos" tendremos tendremos que utilizar esta estructura JSON
 
@@ -75,6 +76,7 @@ Ejemplo:
 
 ![image](https://github.com/user-attachments/assets/0cd00c72-52e0-47b3-9f37-79b648a9a172)
 
+
 <h3> - PUT</h3>
 Para poder editar un topico en "/topicos" tendrenmos que agregar el **id** del topico que queremos modificar 
 
@@ -89,6 +91,15 @@ Ejemplo:
 ![image](https://github.com/user-attachments/assets/56ea90ed-ee79-4733-9c72-075b14cef2d4)
 
 
+<h3> - DELETE</h3>
+Para eliminar un topico no es necesario utilizar **JSON** basta con agregar la direccion de el id deseado
 
+````
+tu_ip_local/topicos/id
+````
+
+Ejemplo:
+
+![image](https://github.com/user-attachments/assets/bc6dfc18-d06a-4e31-887f-d0df3eed7815)
 
 
